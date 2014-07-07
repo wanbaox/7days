@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BC2F9363-9B02-44C7-BB11-BB83F16CA795</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SevenDays</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C8B42D59-49BE-4A4C-B498-137344966CE3</key>
+		<string>https://github.com/wanbaox/7days.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SevenDays.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C8B42D59-49BE-4A4C-B498-137344966CE3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wanbaox/7days.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C8B42D59-49BE-4A4C-B498-137344966CE3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8B42D59-49BE-4A4C-B498-137344966CE3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>7days</string>
+		</dict>
+	</array>
+</dict>
+</plist>

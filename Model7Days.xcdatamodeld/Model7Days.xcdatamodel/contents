@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Msg" representedClassName="Msg" syncable="YES">
+        <attribute name="content" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="fromheadurl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fromid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fromname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isReaded" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="MsgRecent" representedClassName="MsgRecent" syncable="YES">
+        <attribute name="content" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="newmsgcount" optional="YES" attributeType="Integer 16" syncable="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="userheadurl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Msg" positionX="-63" positionY="-18" width="128" height="150"/>
+        <element name="MsgRecent" positionX="-45" positionY="54" width="128" height="163"/>
+    </elements>
+</model>
